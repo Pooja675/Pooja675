@@ -2,7 +2,7 @@
 **Frontend Developer || Fullstack Developer**
 
 - 👩🏻‍💻 Pronouns: She/Her
-- 💼 I’m currently working as a Freelancer 
+- 💼 I’m currently working as a Freelancer. 
 - 🧭 I love exploring and working both in frontend and backend.
 - 📋 I've learned React and NodeJS from NamasteDev.com with certification.
 - 💻 I participated in Hacktoberfest 2025 and GirlScript Summer of Code (GSSoC) 2025 as an Open Source Contributor.
